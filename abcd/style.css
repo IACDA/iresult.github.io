@@ -1,0 +1,90 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body, html{
+	font-family:Roboto,sans-serif,arial;
+	background: black;
+ }
+
+ .width-100{
+	width:100% ;
+	float: left;
+}
+
+ .container{
+ 	background-color: black;
+	margin: 0px auto;
+	height: auto;
+ }
+.logo{
+	margin-top: none;
+	width: 50%;
+	float: middle;
+ }
+ .width-33{
+	width:33% ;
+	float: left;
+}
+.latest-news{
+	margin-left: 10px;
+	margin-right: 10px;
+	background: lavender;
+	padding: 20px;
+	height: 300px;
+	margin-bottom: 20px;
+}
+.heading-sect{
+	width: 100% ;
+	float: left;
+	border-bottom: 1px solid #cfcfcf;
+	padding-bottom: 0px;
+	margin:0px;
+	margin-bottom: 15px;
+	border: 1px solid #cfcfcf;
+	padding-top: 15px;
+	padding-left: 15px;
+	background: red;
+	color: white;
+}
+.head-title{
+	margin:0px;
+	padding:0px;
+	font-size:16px;
+	font-weight:600;
+	padding-bottom:5px;
+}
+.latest-news-ul{
+	padding:0px;
+	list-style: none;
+	line-height: 40px;
+	text-decoration: none;
+}
+.event-list{
+	margin-left: 10px;
+	margin-right: 10px;
+	background: lavender;
+	padding: 20px;
+	height: 300px;
+	margin-bottom: 30px;
+}
+.Upcoming-event-list{
+	padding:0px;
+	list-style:none;
+}
+.upcoming-even-list li{
+	width:100% ;
+	float: left;
+	margin-bottom: 15px;
+}
+.event-date{
+	background:#03a9f4;
+	width: 30px;
+	float: left;
+	text-align:left;
+	font-size:14px;
+	padding:8px;
+	color:#fff;
+	margin-right: 10px;
+}
